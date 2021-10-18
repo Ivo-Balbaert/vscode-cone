@@ -1,0 +1,3 @@
+*.vsix
+*.bat
+vsc-extension-quickstart
