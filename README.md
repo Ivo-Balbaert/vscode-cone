@@ -1,4 +1,4 @@
-# Cone-lang README
+# VSCode plugin
 
 This is a VSCode extension to support developing in the [Cone Programming Language](https://cone.jondgoodwin.com/).
 
