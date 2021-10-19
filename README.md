@@ -1,6 +1,8 @@
 # Cone-lang README
 
-This is a VScode extension to support developing in the [Cone Programming Language](https://cone.jondgoodwin.com/).
+This is a VSCode extension to support developing in the [Cone Programming Language](https://cone.jondgoodwin.com/).
+
+Use Dark color themes (see File, Preferences, Color Theme)for the best experience.
 
 ![](images/pegicon.png)
 
@@ -18,4 +20,4 @@ v 0.1.0 comments support + basic color for keywords
 
 v 0.1.1 more colors
 
-![](images/screen.jpg)
+![](images/screenshot.jpg)
