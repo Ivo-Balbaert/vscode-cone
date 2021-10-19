@@ -94,7 +94,7 @@
 				"patterns": [
 					{
 						"name": "keyword.control",
-						"match": "\\b(and|break|continue|do|each|else|elif|fn|if|import|in|is|inline|into|macro|match|new|not|or|pure|return|throw|throws|using|while|with|yield)\\b"
+						"match": "\\b(and|break|continue|do|each|else|elif|fn|if|import|in|is|inline|into|loop|macro|match|new|not|or|pure|return|throw|throws|using|while|with|yield)\\b"
 					},
 					{
 						"name": "keyword.other",
